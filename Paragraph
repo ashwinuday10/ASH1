@@ -4,7 +4,7 @@
 </head>
 <body>
 <p><b>this is my first paragraph</b>
-<b>although the text is broken</b>
+<i>although the text is broken</i>
 into multiple lines
 still paragraph is one</p> 
 </body>
